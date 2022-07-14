@@ -2,5 +2,5 @@
 
 请访问以下地址以查看内容：
 
-https://dapr.skyao.io/source
+https://cn.dapr.io/source
 

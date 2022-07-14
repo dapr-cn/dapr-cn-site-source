@@ -192,5 +192,5 @@ enable = false
 [[menu.main]]
     name = "Dapr中国社区"
     weight = 50
-    url = "https://dapr.skyao.io/"
+    url = "https://cn.dapr.io/"
     pre = "<i class='fa fa-home'></i>"
